@@ -1,0 +1,20 @@
+{
+    "name" : "FWD Get-Subscribers",
+    "slug" : "fwd-get-subscribers",
+    "homepage" : "http://webdesign-flash.ro/",
+    "download_url" : "http://webdesign-flash.ro/w/popup/update/fwd-get-subscribers.zip",
+    
+    "version" : "1.0",
+    "requires" : "4.0",
+    "tested" : "4.6",
+    "last_updated" : "2016-08-20",
+    
+    "author" : "FWD",
+    "author_homepage" : "http://webdesign-flash.ro/",
+    
+    "sections" : 
+	{
+        "description" : "<p>Get more subscribers for your web page with this plugin!</p>",
+        "changelog" : "<strong>Version 1.0 Release Date 2016-08-20</strong> <ul> <li>First version released.</li> </ul>"
+    }
+}
